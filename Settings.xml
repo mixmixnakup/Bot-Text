@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Settings>
+  <Setting name="ProcessName">Neuz</Setting> <!-- ProcessName your game server-->
+  <Setting name="BotWindowName">Awakebot Customize By Sanchai</Setting>
+</Settings>
